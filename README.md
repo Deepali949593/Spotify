@@ -5,7 +5,8 @@ This project is an interactive Spotify Analytics Dashboard created using Microso
 
 The dataset used for this project was sourced from Kaggle and transformed into an interactive business intelligence dashboard for better data exploration and storytelling.
 
-![Alt text](Spotify/Screenshots/Screenshot 2026-05-11 195622.png)
+![Home](Screenshots/Screenshot 2026-05-11 195622.png).
+
 ## Features
 
 * Interactive dashboard with filters and slicers
